@@ -1,0 +1,71 @@
+h1 {
+    color: aliceblue;
+    background-color: brown;
+    width: max-content;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+.vlog-one {
+    background-color: rgb(0, 75, 56);
+    color: aliceblue;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    width: 50%;
+
+}
+
+.author-name {
+    color: burlywood;
+}
+
+.vlog-two {
+    background-color: rgb(0, 47, 75);
+    color: aliceblue;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+    margin-left: 50%;
+    border-radius: 10px;
+}
+
+.author-name {
+    color: burlywood;
+}
+
+.vlog-three {
+    background-color: rgb(14, 0, 75);
+    color: aliceblue;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.author-name {
+    color: burlywood;
+}
+
+.heading {
+    color: salmon;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+
+}
+
+.vlog-one p {
+    text-align: justify;
+
+}
+
+.vlog-two p {
+    text-align: justify;
+}
+
+.vlog-three p {
+    text-align: justify;
+}
